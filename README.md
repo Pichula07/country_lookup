@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Rest_Countries
-=======
-<<<<<<< HEAD
-=======
->>>>>>> bf59b233b8f94763c477e8a5f250ca120d2737bd
+
 # 🌍 Country Lookup App 🇧🇷
 
 Um aplicativo Flutter simples e moderno para buscar **informações detalhadas de países** usando a API pública [REST Countries](https://restcountries.com/).
