@@ -61,8 +61,7 @@ Emulador Android ou dispositivo físico
 📄 Licença
 Este projeto é open-source e pode ser utilizado para fins educacionais e pessoais.
 Desenvolvido com 💙 por João Pedro Murari.
-<<<<<<< HEAD
-=======
+
 # rest_countries
 
 A new Flutter project.
